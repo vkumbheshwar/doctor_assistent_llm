@@ -1,0 +1,8 @@
+# OpenAI API client
+openai>=1.0.0
+
+# For environment variables
+python-dotenv>=1.0.0
+
+# For type hints (built-in from Python 3.10+, but explicit)
+# No additional web framework needed - this is a CLI chatbot
